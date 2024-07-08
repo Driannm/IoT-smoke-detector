@@ -2,7 +2,10 @@
 ## Component Preview 
 ```
 
-###Board : Arduino Uno Rev3 
+Arduino Uno Rev3
+MQ-2 Gas Sensor
+Buzzer 5V
+BreadBoard (Opsional)
 
 ```
 

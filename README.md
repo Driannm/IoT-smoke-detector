@@ -1,6 +1,6 @@
 
 ## Component Preview 
-> Board
+'Board'
 
 ## Wiring Preview
 

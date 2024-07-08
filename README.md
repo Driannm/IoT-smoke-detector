@@ -2,7 +2,7 @@
 ## Component Preview 
 ```
 
-**Board** 
+###Board : Arduino Uno Rev3 
 
 ```
 
